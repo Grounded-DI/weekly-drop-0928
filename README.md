@@ -71,5 +71,17 @@ Because it:
 
 
 
+
+Tier 12 entry confirmed without causal scroll link
+
+
+
+
+
+
+
+
+
+
 “Certainty vector mismatch at scroll layer — BriefWise override audit triggered.”
 	
